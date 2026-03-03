@@ -1,32 +1,37 @@
-# HTML5/CSS Learning
+# 前端学习计划 (30天)
 
-记录 HTML5/CSS 前置知识与每日学习过程。
+HTML5 + CSS + Vue3 + TypeScript 每日学习记录。
 
 ## 仓库说明
 
-- 前置知识：HTTP/TCP、浏览器工作原理、Web 标准等
+30天前端学习计划，涵盖：
 - HTML5 基础与进阶
-- CSS 基础与进阶
-- Web 开发 fundamentals
-
-## 如何使用
-
-1. Clone 到本地：`git clone https://github.com/llh2hxf-lab/html5-css-learning.git`
-2. 每日学习后，在对应目录添加笔记
-3. 按照文件夹结构整理内容
+- CSS 基础与进阶  
+- Vue3 核心概念与实战
+- TypeScript 基础
 
 ## 文件结构
 
 ```
-/ 前置知识/
-/ HTML5/
-/ CSS/
-/ 实践项目/
+/ 前置知识/      # HTTP/TCP、浏览器原理、Web 标准
+/ HTML5/        # HTML5 标签、语义化、表单等
+/ CSS/          # CSS 布局、 Flexbox、 Grid、动画等
+/ Vue3/         # 响应式、组件、 Composition API、 Pinia 等
+/ TypeScript/   # 类型系统、泛型、接口等
+/ 实战项目/      # 阶段实战练习
 / 笔记/          # 每日学习笔记
 ```
 
+## 学习路线
+
+| 阶段 | 内容 | 天数 |
+|------|------|------|
+| 1 | 前置知识 + HTML5 | 1-7 |
+| 2 | CSS 基础 + 进阶 | 8-14 |
+| 3 | Vue3 核心 | 15-21 |
+| 4 | TypeScript + Vue3 实战 | 22-28 |
+| 5 | 综合项目 + 复习 | 29-30 |
+
 ---
 
-**学习路线**：前置知识 → HTML5 → CSS → 实战项目
-
----
+**每天学习后，在 `/笔记/` 目录下添加当日笔记。**
